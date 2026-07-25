@@ -43,7 +43,10 @@ retailer data. The public roles signal Python, Node.js, Next.js, MongoDB,
 PostgreSQL, and LLM-enabled systems, alongside full-stack delivery, production
 ownership, rapid iteration, debugging, cross-functional communication, and
 comfort with ambiguity. The roles describe a five-day, on-site New York City
-working model.
+working model. The current job postings report that Glimpse launched this
+product in April 2024, serves 200+ customers, and has raised $52M from investors
+including a16z, 8VC, and Y Combinator; use these only as dated,
+company-reported context.
 
 For either role, connect only supported candidate evidence to the product's
 messy-data, financial-workflow, and customer-facing engineering problems.
@@ -91,9 +94,12 @@ stages and evaluation areas.
 
 ## Source ledger — last verified 2026-07-25
 
-- **Confirmed:** [Glimpse careers portal](https://jobs.ashbyhq.com/glimpse);
+- **Confirmed / company-reported role, growth, and funding context:**
+  [Glimpse careers portal](https://jobs.ashbyhq.com/glimpse);
   [Software Engineer](https://jobs.ashbyhq.com/glimpse/767a3a59-53d6-4306-afae-6b05a265ba82);
   [Senior Software Engineer](https://jobs.ashbyhq.com/glimpse/c5b5f19b-cca0-46bd-a734-d922c26b27ad).
+  The two job postings report the April 2024 launch, 200+ customers, $52M
+  raised, and named investors.
 - **Confirmed:** [Glimpse platform](https://www.tryglimpse.com/platform) and
   [AI Disputing Agents](https://www.tryglimpse.com/post/glimpse-ai-disputing-agents).
 - **Corroborated / attributed:** [Y Combinator company profile](https://www.ycombinator.com/companies/glimpse-2),
