@@ -5,9 +5,9 @@ capabilities:
 
 # Tailor the canonical résumé
 
-Read `knowledge/roles.md`, `knowledge/company.md`, the canonical résumé, approved
-profile, and company-private candidate files. Use the exact job description as
-the target.
+Read `knowledge/roles.md`, `knowledge/company.md`,
+`knowledge/engineering.md`, the canonical résumé, approved profile, and
+company-private candidate files. Use the exact job description as the target.
 
 Produce a focused, truthful `.tex` revision:
 

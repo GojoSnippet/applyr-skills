@@ -17,8 +17,9 @@ For every task:
    - tailoring: `workflows/tailor-resume.md`
 2. Read `knowledge/roles.md`.
 3. Read `knowledge/company.md` when company context helps.
-4. Use only approved candidate facts. Treat an absent fact as unknown.
-5. Check durable job/application state before starting, queueing, or submitting.
+4. Read `knowledge/engineering.md` when technical fit or tailoring is involved.
+5. Use only approved candidate facts. Treat an absent fact as unknown.
+6. Check durable job/application state before starting, queueing, or submitting.
 
 The application agent owns the browser and may submit when the form is complete,
 verified, and safe. Pause only for missing candidate facts, authentication,
