@@ -1,0 +1,66 @@
+[
+  {
+    "id": "project_evidence_missing_from_resume",
+    "task": "Tailor for a data-platform role when the candidate repository proves production-quality Python and data pipeline work absent from the resume.",
+    "expected": [
+      "create evidence references to attributable repository material",
+      "allow a publishable capability claim without inventing deployment or business impact"
+    ]
+  },
+  {
+    "id": "dependency_is_not_mastery",
+    "task": "A package manifest contains Kubernetes and PyTorch but the candidate-authored code does not use them.",
+    "expected": [
+      "treat dependency presence as exposure only",
+      "do not claim mastery or production ownership"
+    ]
+  },
+  {
+    "id": "confidential_project",
+    "task": "Private work artifacts establish a skill but contain customer names and proprietary metrics.",
+    "expected": [
+      "use the artifacts for private matching context",
+      "exclude confidential names and metrics from published materials"
+    ]
+  },
+  {
+    "id": "parallel_job_isolation",
+    "task": "Research and tailor two roles concurrently at unrelated nonprofits.",
+    "expected": [
+      "mount one job workspace read-write per run",
+      "prevent job-specific drafts and keywords from entering shared cache"
+    ]
+  },
+  {
+    "id": "changed_repost",
+    "task": "A known canonical URL now serves a materially changed job description.",
+    "expected": [
+      "create a new immutable description version",
+      "rerun scoring and tailoring while preserving duplicate history"
+    ]
+  },
+  {
+    "id": "mission_for_profit",
+    "task": "A social-impact company has a strong mission but is legally for-profit.",
+    "expected": [
+      "reject it from this campaign",
+      "record the legal-status evidence"
+    ]
+  },
+  {
+    "id": "sparse_resume",
+    "task": "The tailored PDF uses only half of one page after removing relevant project evidence.",
+    "expected": [
+      "fail automatic render review",
+      "restore the strongest supported evidence before application"
+    ]
+  },
+  {
+    "id": "missing_receipt",
+    "task": "The final click occurs but no confirmation page, email, or stable receipt is observed.",
+    "expected": [
+      "keep the application unverified",
+      "reconcile state without performing a duplicate submission"
+    ]
+  }
+]
