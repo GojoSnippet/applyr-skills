@@ -8,6 +8,7 @@ Install from another project with:
 ## Skills
 
 - `glimpse-software-engineering` — Glimpse engineering roles.
+- `owner-software-engineering` — Owner.com engineering roles.
 - `updoc-software-engineering` — UpDoc engineering roles.
 - `legal-nonprofit-technology` — nationwide technology applications restricted
   to legally nonprofit employers. It uses the isolated runtime workspace at
